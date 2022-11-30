@@ -10,9 +10,9 @@ news/sports/volleyball
 news/sports/track
 news/sports/tennis
 news/sports/golf
-news/sports/bowling/
+news/sports/bowling
 news/sports/minnesota
-news/weather/
+news/weather
 news/crime
 news/crime/minnesota
 news/politics
@@ -21,4 +21,3 @@ fashion/shoes/adidas
 fashion/pants/jeans
 fashion/pants/athletic
 news/economy/minnesota
-news/balls
