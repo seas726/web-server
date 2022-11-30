@@ -12,7 +12,7 @@ OBJ := $(SRC:$(SRC_DIR)/%.c=$(OBJ_DIR)/%.o)
 CC := gcc
 CPPFLAGS := -Itcp_server/include -MMD -MP -pthread
 CFLAGS   := -Wall
-LDFLAGS  := -Llib
+LDFLAGS  := -Llib -pthread
 LDLIBS   := -lm
 
 .PHONY: all clean
