@@ -1,0 +1,15 @@
+/* DEFINITIONS USED BY ALL */
+
+#ifndef SERVER_UTIL
+#define SERVER_UTIL
+
+#define SUCCESS 0
+#define FAILURE -1
+
+#define MAX_MESSAGE_LEN 100
+
+
+/* GENERIC HELPER FUNCTIONS */
+
+
+#endif // SERVER_UTIL
