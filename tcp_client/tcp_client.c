@@ -45,7 +45,7 @@ int main()
     int socket = connect_to_server(9002);
     int ret_val;
     
-    struct fd_set read_fd_set[2];
+    fd_set read_fd_set[2];
     
     if(socket < 0){
         return -1;
